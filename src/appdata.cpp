@@ -41,7 +41,7 @@ namespace APPDATANS
 	using namespace 	kapi::notify;
 	using 		JSON	= kapi::JSON;
 	using 	Context = ApplicationInterface::Context;
-	const char dataPath[] = "/usr/lib/rsserial/kappaio-appdata_files/data.json";
+	const char dataPath[] = "/usr/lib/rsserial/appdata_files/data.json";
 
 
 	void init()
